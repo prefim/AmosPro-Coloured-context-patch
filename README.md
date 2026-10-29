@@ -1,10 +1,6 @@
 # AmosPro-Coloured-context-patch
 Patch to make Amospro editor provide context aware coloured text for easier reading.
 
-======================================
-AMOSPro 2.00 patch for QOL improvement
-======================================
-
 WHAT DOES IT DO?
 ================
 
